@@ -1,0 +1,16 @@
+# created on first run by `eq2docx -Init` — machine-specific, never commit
+eq2docx.config.json
+eq2docx.cmd
+
+# generated equations: EQ01.md / EQ01.docx / EQ_20260101_120000.md ...
+EQ_*.md
+EQ_*.docx
+EQ*.md
+EQ*.docx
+
+# editor / OS noise
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.swp
