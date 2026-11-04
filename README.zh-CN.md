@@ -23,7 +23,7 @@ LaTeX 是**原样**交给 pandoc 的 —— 脚本不改写、不归一化、不
 
 ```cmd
 :: 只 clone 一次（或把 ZIP 解压到同一位置）
-git clone <repo-url> D:\tools\eq2docx
+git clone https://github.com/AENatsuKage/eq2docx.git D:\tools\eq2docx
 
 :: 然后在该目录下
 cd /d D:\tools\eq2docx
