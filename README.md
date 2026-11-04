@@ -23,7 +23,7 @@ First get the files onto your machine: clone the repo (or download the ZIP and e
 
 ```cmd
 :: clone once (or extract the ZIP to the same place)
-git clone <repo-url> D:\tools\eq2docx
+git clone https://github.com/AENatsuKage/eq2docx.git D:\tools\eq2docx
 
 :: then, from that folder
 cd /d D:\tools\eq2docx
